@@ -3,36 +3,38 @@ meta:
   title: TurtleCoin.lol - A Fun, Fast, and Easy Way to Send Money To Friends and Businesses
 
 # welcome section
-turtlecoin_is:  TurtleCoin is a decentralized <strong>Peer-2-Peer</strong> <a href="https://github.com/turtlecoin">Open Source</a> electronic currency. It’s easy to get, <strong>completely private</strong>, and <a href="https://edu.turtlecoin.lol">ready for you</a> today.
-get_started: Let's get you started in <strong>3 easy steps.</strong>
+turtlecoin_is:  TurtleCoin是一个去中心化<strong>点对点</strong><a href="https://github.com/turtlecoin">开源</a>的电子货币。它很容易获得，<strong>完全隐私</strong>，并已经<a href="https://edu.turtlecoin.lol">为您准备</a>好了。
+get_started: 让我们从<strong>3个简单的步骤</strong>开始。
 
 
 # wallet section
-wallet_title: Pick A Wallet
-wallet_we_support:  We support <strong>Windows, MacOS, Linux, Android,</strong> and <strong>Web-based</strong> wallets.
-wallet_long_term_storage:   For long term storage, we recommend using a <strong><a href="/wallet">paper wallet</a></strong>.
+wallet_title: 选择一个钱包
+wallet_we_support:  我们支持<strong>Windows，MacOS，Linux，Android</strong>和<strong>基于Web的</strong>钱包。
+wallet_long_term_storage:   为了长期保管，我们建议使用<strong><a href="/wallet">纸钱包</a></strong>。
+
 
 #say hello section
-say_hello_title: Say Hello
+say_hello_title: 打招呼
 
 #get in the know section
-get_know_title: Get In The Know
-get_know_text:  Every week we post updates to the <strong><a href="https://blog.turtlecoin.lol">Official <span class="reg">TurtleCoin</span> Blog</a></strong> detailing what we accomplished. Whether you want to submit something cool you've been creating, or just make a shoutout to the community, everyone is welcome to contribute their piece to the article.
-get_know_button: Click to write an update
+get_know_title: 深入了解
+get_know_text:  每周我们都会向 <strong><a href="https://blog.turtlecoin.lol">官方 <span class="reg">TurtleCoin</span> 博客</a></strong> 发布更新，说明我们完成的细节。 无论您是要提交自己一直在创造很酷的东西，还是只是向社区大喊大叫，每个人都欢迎为本文贡献自己的一份力量。
+
+get_know_button: 点击写入更新
 
 #blog updates section
-blog_updates_title: Recent Blog Updates
+blog_updates_title: 最近的博客更新
 
 #dev activity section
-dev_activity_title: Recent Dev Activity
-dev_activity_issues: Issues
-dev_activity_core_commits: Core Commits
+dev_activity_title: 最近的开发活动
+dev_activity_issues: 议题
+dev_activity_core_commits: 核心提交
 
 #building apps section
-building_apps_title: Building Apps on
-building_apps_text:     <span class="reg">TurtleCoin</span> has lots of services and documentation for those who'd like to build on top of our API's. Here are some links below to help you along your way.
-building_apps_api_doc:  <span class="reg">TurtleCoin</span> API Documentation
-building_apps_service_doc: <span class="reg">TurtleCoin</span> Service Documentation
+building_apps_title: 构建应用程式
+building_apps_text:     <span class="reg">TurtleCoin</span> 为想要在我们的API之上构建的用户提供了许多服务和文档。以下是一些可帮助您顺利进行的链接。
+building_apps_api_doc:  <span class="reg">TurtleCoin</span> API 文档
+building_apps_service_doc: <span class="reg">TurtleCoin</span> 服务文档
 
 
 
