@@ -9,16 +9,16 @@ get_started: 让我们从<strong>3个简单步骤</strong>开始。
 
 # wallet section
 wallet_title: 选择一个钱包
-wallet_we_support:  我们支持<strong>Windows，MacOS，Linux，Android</strong>和<strong>网页版</strong>钱包。
-wallet_long_term_storage:   为了长期保管，我们建议使用<strong><a href="/wallet">纸钱包</a></strong>。
+wallet_we_support:  我们支持<strong>Windows，MacOS，Linux，Android安卓</strong>和<strong>网页版</strong>钱包。
+wallet_long_term_storage:   为了长期保存，我们建议使用<strong><a href="/wallet">纸钱包</a></strong>。
 
 
 #say hello section
 say_hello_title: 说声你好
 
 #get in the know section
-get_know_title: 深入了解
-get_know_text:  每周我们都会向 <strong><a href="https://blog.turtlecoin.lol">官方 <span class="reg">TurtleCoin</span> 博客</a></strong> 发布更新，说明我们完成的细节。 无论你是否要提交正在创造很酷的东西，还是只是要向社区大喊大叫，每个人都欢迎为本文贡献自己的一份力量。
+get_know_title: 了解更多
+get_know_text:  每周我们都会向 <strong><a href="https://blog.turtlecoin.lol">官方 <span class="reg">TurtleCoin</span> 博客</a></strong> 发布更新，说明我们完成的细节。 不管你是否要提交正在创造非常酷的东西，还是只是要向社区呐喊，所有人都欢迎为本文贡献自己的一份力量。
 
 get_know_button: 点击写入更新
 
@@ -32,7 +32,7 @@ dev_activity_core_commits: 核心提交
 
 #building apps section
 building_apps_title: 构建应用程式
-building_apps_text:     <span class="reg">TurtleCoin</span> 为想要在我们的API之上构建的用户提供了许多服务和资料。以下是一些可帮助你顺利进行的链接。
+building_apps_text:     <span class="reg">TurtleCoin</span> 为想要在我们的API之上构建应用的用户提供了许多服务和资料。以下是一些可帮助你顺利进行的链接。
 building_apps_api_doc:  <span class="reg">TurtleCoin</span> API资料
 building_apps_service_doc: <span class="reg">TurtleCoin</span> 服务资料
 
