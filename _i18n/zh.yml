@@ -17,7 +17,7 @@ wallet_long_term_storage:   为了长期保存，我们建议使用<strong><a hr
 say_hello_title: 说声你好
 
 #get in the know section
-get_know_title: 了解更多
+get_know_title: 获取资讯
 get_know_text:  每周我们都会向 <strong><a href="https://blog.turtlecoin.lol">官方 <span class="reg">TurtleCoin</span> 博客</a></strong> 发布更新，说明我们完成的细节。 不管你是否要提交正在创造非常酷的东西，还是只是要向社区呐喊，所有人都欢迎为本文贡献自己的一份力量。
 
 get_know_button: 点击写入更新
