@@ -3,7 +3,7 @@ meta:
   title: TurtleCoin.lol - 有趣, 快速, 和简单的方式向朋友或企业汇款
 
 # welcome section
-turtlecoin_is:  TurtleCoin</span>是一个去中心化<strong>点对点</strong><a href="https://github.com/turtlecoin">开源</a>的电子货币。它很容易获得，<strong>完全隐匿</strong>，并在今天就能<a href="https://edu.turtlecoin.lol">即刻使用</a>。
+turtlecoin_is:  TurtleCoin</span>乌龟币是一个去中心化<strong>点对点</strong><a href="https://github.com/turtlecoin">开源</a>的电子货币。它很容易获得，<strong>完全隐匿</strong>，并在今天就能<a href="https://edu.turtlecoin.lol">即刻使用</a>。
 get_started: 让我们从<strong>3个简单步骤</strong>开始。
 
 
@@ -32,9 +32,9 @@ dev_activity_core_commits: 核心提交
 
 #building apps section
 building_apps_title: 构建应用程式
-building_apps_text:     <span class="reg">TurtleCoin</span> 为想要在我们的API之上构建应用的用户提供了许多服务和资料。以下是一些可帮助你顺利进行的链接。
-building_apps_api_doc:  <span class="reg">TurtleCoin</span> API资料
-building_apps_service_doc: <span class="reg">TurtleCoin</span> 服务资料
+building_apps_text:     <span class="reg">TurtleCoin</span> 为想要在我们的API之上构建应用的用户提供了许多服务和文档。以下是一些可帮助你顺利进行的链接。
+building_apps_api_doc:  <span class="reg">TurtleCoin</span> API文档
+building_apps_service_doc: <span class="reg">TurtleCoin</span> 服务文档
 
 
 
