@@ -1,68 +1,40 @@
 meta:
-  description: TurtleCoin is a fun way to send money privately to friends or businesses. TurtleCoin is a community-developed, open source cryptocurrency that is easy to mine, and has a graphical wallet.
-  title: TurtleCoin.lol - A Fun, Fast, and Easy Way to Send Money To Friends and Businesses
+  description: TurtleCoin是個有趣的方式讓你私下向朋友或企業匯款。 TurtleCoin是一種由社區開發的開源加密貨幣，挖礦簡單，並具有GUI錢包。
+  title: TurtleCoin.lol - 有趣, 快速, 和簡單的方式向朋友或企業匯款
 
 # welcome section
-turtlecoin_is: TurtleCoin</span> is a
-                            decentralized
-                            <strong>Peer-2-Peer</strong>
-                            <a href="https://github.com/turtlecoin"
-                                >Open Source</a
-                            >
-                            electronic currency. It’s easy to get,
-                            <strong>completely private</strong>, and
-                            <a href="https://edu.turtlecoin.lol"
-                                >ready for you</a
-                            >
-                            today.
-get_started: Let's get you started in <strong>3 easy steps.</strong>
+turtlecoin_is:  TurtleCoin</span>烏龜幣是一個去中心化<strong>點對點</strong><a href="https://github.com/turtlecoin">開源</a>的電子貨幣。它很容易獲得，<strong>完全隱匿</strong>，並在今天就能<a href="https://edu.turtlecoin.lol">即刻使用</a>。
+get_started: 讓我們從<strong>3個簡單步驟</strong>開始。
 
 
 # wallet section
-wallet_title: Pick A Wallet
-wallet_we_support: We support
-                            <strong>Windows, MacOS, Linux, Android,</strong>
-                            and<strong> Web-based </strong>wallets.
-wallet_long_term_storage: For long term storage, we recommend using a
-                            <strong><a href="/wallet">paper wallet</a></strong>.
+wallet_title: 選擇一個錢包
+wallet_we_support:  我們支持<strong>Windows，MacOS，Linux，Android安卓</strong>和<strong>網頁版</strong>錢包。
+wallet_long_term_storage:   為了長期保存，我們建議使用<strong><a href="/wallet">紙錢包</a></strong>。
+
 
 #say hello section
-say_hello_title: Say Hello
+say_hello_title: 說聲你好
 
 #get in the know section
-get_know_title: Get In The Know
-get_know_text: Every week we post updates to the
-                            <strong>
-                                <a href="https://blog.turtlecoin.lol"
-                                    >Official
-                                    <span class="reg">TurtleCoin</span> Blog</a
-                                ></strong
-                            >
-                            detailing what we accomplished. Whether you want to
-                            submit something cool you've been creating, or just
-                            make a shoutout to the community, everyone is
-                            welcome to contribute their piece to the article.
-get_know_button: Click to write an update
+get_know_title: 獲取資訊
+get_know_text:  每周我們都會向 <strong><a href="https://blog.turtlecoin.lol">官方 <span class="reg">TurtleCoin</span> 博客</a></strong> 發佈更新，說明我們完成的細節。 不管你是否要提交正在創造非常酷的東西，還是只是要向社區吶喊，所有人都歡迎為本文貢獻自己的一份力量。
+
+get_know_button: 點擊寫入更新
 
 #blog updates section
-blog_updates_title: Recent Blog Updates
+blog_updates_title: 最新博客更新
 
 #dev activity section
-dev_activity_title: Recent Dev Activity
-dev_activity_issues: Issues
-dev_activity_core_commits: Core Commits
+dev_activity_title: 最新開發動向
+dev_activity_issues: 議題
+dev_activity_core_commits: 核心提交
 
 #building apps section
-building_apps_title: Building Apps on
-building_apps_text: <span class="reg">TurtleCoin</span> has lots of
-                                services and documentation for those who'd like
-                                to build on top of our API's. Here are some
-                                links below to help you along your way.
-building_apps_api_doc:  <span class="reg">TurtleCoin</span> API
-                                Documentation
-building_apps_service_doc: <span class="reg">TurtleCoin</span> Service
-                                Documentation
-
+building_apps_title: 構建應用程式
+building_apps_text:     <span class="reg">TurtleCoin</span> 為想要在我們的API之上構建應用的用戶提供了許多服務和文檔。以下是一些可幫助你順利進行的鏈接。
+building_apps_api_doc:  <span class="reg">TurtleCoin</span> API文檔
+building_apps_service_doc: <span class="reg">TurtleCoin</span> 服務文檔
 
 
 
